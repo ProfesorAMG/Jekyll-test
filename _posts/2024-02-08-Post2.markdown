@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Post2"
+date:   2024-02-08 18:14:40 +0100
+categories: jekyll update
+---
+Este es un segundo post
