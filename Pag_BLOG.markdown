@@ -5,7 +5,8 @@ permalink: /Blog/
 ---
 
 Nuevo BLOG
-===========
+************
+
 Sesión 4 apartado 10.
 Saludos.
 

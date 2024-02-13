@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Blog
-permalink: /Blog/
+title: Página2
+permalink: /Página2/
 ---
 
-Nuevo BLOG
+Nueva PÁGINA2
+
 Sesión 4 apartado 10.
 Saludos.
 
