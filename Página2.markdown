@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: layout
 title: Página2
 permalink: /Página2/
 ---

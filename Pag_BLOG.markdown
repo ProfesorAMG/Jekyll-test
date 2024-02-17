@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: plantillablog
 title: Blog
 permalink: /Blog/
 ---
@@ -9,6 +9,9 @@ Nuevo BLOG
 
 Sesión 4 apartado 10.
 Saludos.
+¡Hola visitante!
+
+A continuación tienes los post que hemos generado en el sitio. 
 
 
 
